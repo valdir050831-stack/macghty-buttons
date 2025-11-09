@@ -1,1 +1,1 @@
-# macghty-buttons
+# mac-buttons
